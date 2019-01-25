@@ -1,2 +1,2 @@
-### Functional Programming with JS
+# Functional Programming with JS
 
